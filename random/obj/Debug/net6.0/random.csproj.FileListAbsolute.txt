@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\random\obj\Debug\net6.0\random.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\random\obj\Debug\net6.0\random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\random\obj\Debug\net6.0\random.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\random\obj\Debug\net6.0\random.AssemblyInfo.cs
+C:\Users\Hp\Desktop\random\obj\Debug\net6.0\random.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\random\bin\Debug\net6.0\random.exe
+C:\Users\Hp\Desktop\random\bin\Debug\net6.0\random.deps.json
+C:\Users\Hp\Desktop\random\bin\Debug\net6.0\random.runtimeconfig.json
+C:\Users\Hp\Desktop\random\bin\Debug\net6.0\random.dll
+C:\Users\Hp\Desktop\random\bin\Debug\net6.0\random.pdb
+C:\Users\Hp\Desktop\random\obj\Debug\net6.0\random.dll
+C:\Users\Hp\Desktop\random\obj\Debug\net6.0\refint\random.dll
+C:\Users\Hp\Desktop\random\obj\Debug\net6.0\random.pdb
+C:\Users\Hp\Desktop\random\obj\Debug\net6.0\random.genruntimeconfig.cache
+C:\Users\Hp\Desktop\random\obj\Debug\net6.0\ref\random.dll
